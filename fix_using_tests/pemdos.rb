@@ -12,3 +12,5 @@ def snake_it_up(string)
     result
   end
 end
+
+snake_it_up("surprise!")
