@@ -4,7 +4,7 @@ def snake_it_up(string)
   result = string
   if string[0] == "s"
 
-    11.times do
+    10.times do
       result.insert(0,'s')
 
     end
