@@ -6,8 +6,8 @@ def snake_it_up(string)
 
     10.times do
       result.insert(0,'s')
+    end 
     result
-  end
   else
     result
   end
